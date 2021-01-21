@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\jkgla\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jkgla\\.nuget\\packages"
+    ]
+  }
+}

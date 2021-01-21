@@ -1,0 +1,16 @@
+D:\NumberSysConverter\bin\Debug\net5.0\NumberSysConverter.exe
+D:\NumberSysConverter\bin\Debug\net5.0\NumberSysConverter.deps.json
+D:\NumberSysConverter\bin\Debug\net5.0\NumberSysConverter.runtimeconfig.json
+D:\NumberSysConverter\bin\Debug\net5.0\NumberSysConverter.runtimeconfig.dev.json
+D:\NumberSysConverter\bin\Debug\net5.0\NumberSysConverter.dll
+D:\NumberSysConverter\bin\Debug\net5.0\ref\NumberSysConverter.dll
+D:\NumberSysConverter\bin\Debug\net5.0\NumberSysConverter.pdb
+D:\NumberSysConverter\obj\Debug\net5.0\NumberSysConverter.csprojAssemblyReference.cache
+D:\NumberSysConverter\obj\Debug\net5.0\NumberSysConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\NumberSysConverter\obj\Debug\net5.0\NumberSysConverter.AssemblyInfoInputs.cache
+D:\NumberSysConverter\obj\Debug\net5.0\NumberSysConverter.AssemblyInfo.cs
+D:\NumberSysConverter\obj\Debug\net5.0\NumberSysConverter.csproj.CoreCompileInputs.cache
+D:\NumberSysConverter\obj\Debug\net5.0\NumberSysConverter.dll
+D:\NumberSysConverter\obj\Debug\net5.0\ref\NumberSysConverter.dll
+D:\NumberSysConverter\obj\Debug\net5.0\NumberSysConverter.pdb
+D:\NumberSysConverter\obj\Debug\net5.0\NumberSysConverter.genruntimeconfig.cache
